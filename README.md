@@ -4,6 +4,15 @@
 
 ## About Me 🚀
 
+<p align="center">
+Particle Physicist • Machine Learning • Scientific Computing
+</p>
+
+<p align="center">
+ATLAS Collaboration @ CERN | Bayesian Inference | EFT | C++ | Python | ROOT
+</p>
+
+
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
@@ -22,9 +31,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binishmaadii&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=binishmaadii)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode,pytorch,tensorflow"/>

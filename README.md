@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Binish Batool! 👋
 
-![Banner Image] https://drive.google.com/file/d/13700IZ3lv6TAPLDO6xi8ygtbn2Wn0umi/view?usp=sharing
+![Banner Image] (https://drive.google.com/file/d/13700IZ3lv6TAPLDO6xi8ygtbn2Wn0umi/view?usp=sharing)
 
 ## About Me 🚀
 

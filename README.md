@@ -22,6 +22,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binishmaadii&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=binishmaadii)
+
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)

@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/BinishMaadii/binishmaadii/blob/main/Binish_GitHub_Banner.png" alt="banner" width="100%">
+</p>
+
+
 # Hi there, I'm Binish Batool! 👋
 
 ![Banner Image] (https://drive.google.com/file/d/13700IZ3lv6TAPLDO6xi8ygtbn2Wn0umi/view?usp=sharing)

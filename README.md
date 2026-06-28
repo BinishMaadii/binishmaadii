@@ -52,19 +52,21 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
   <img src="https://streak-stats.demolab.com?user=binishmaadii">
 </p>
 
-## Featured Projects 💻
+## Featured Project 💻
 
 ### [Project 1 Title](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/hBragg_peak.pdf)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[PET activity prediction]** for proton energy loss is a **[simulated]** using **[C++ and GEANT4]**. This project demonstrates my understanding of how particles interact with matter and how their interactions can be **simulated** for **medical applications**. You can check out the repository [here]([project_1_repository_link](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)).
 
+<!--
 ### [Project 2 Title](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+-->
 
 ## Get in Touch 📬
 

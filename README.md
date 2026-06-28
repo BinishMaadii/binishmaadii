@@ -17,10 +17,10 @@ ATLAS Collaboration @ CERN | Bayesian Inference | Effective Field Theory | C++ |
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Multi-modal data handling. A follow-up from the Project 1]**
-- 🔭 Working on: **[Simulation of particle physics process for medical applications]**
-- 🌍 Languages: **[My work can speak below listed languages. I can speak English, Deutsch, Urdu]**
-- ⚡ Mantra: **[You do not age if you keep learning]**
+- 🌱 Currently learning: ** Multi-modal data handling. A follow-up from the Project 1 **
+- 🔭 Working on: ** Simulation of particle physics process for medical applications **
+- 🌍 Languages: ** My work can speak the languages listed below. I can speak English, Deutsch, Urdu **
+- ⚡ Mantra: ** You do not age if you keep learning **
 
 ## My Skills 🧠
 <!--

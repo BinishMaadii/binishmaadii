@@ -70,7 +70,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(https://sites.google.com/view/binishbatoolphd/bio)
-- **[LinkedIn]**(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/binish-batool)
+- **![LinkedIn]**(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/binish-batool)
 - **[X]**(https://x.com/BatoolBinish)
 
 

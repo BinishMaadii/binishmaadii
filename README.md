@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image] https://drive.google.com/file/d/13700IZ3lv6TAPLDO6xi8ygtbn2Wn0umi/view?usp=sharing
 
 ## About Me 🚀
 

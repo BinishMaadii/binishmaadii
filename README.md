@@ -1,4 +1,4 @@
-# Hi there, I'm Binish Batool! 👋
+# Hi 👋, welcome, visitor. I am Dr.rer.nat. Binish Batool! 
 
 <p align="center">
   <img src="https://github.com/BinishMaadii/binishmaadii/blob/main/Binish_GitHub_Banner.png" alt="banner" width="100%">

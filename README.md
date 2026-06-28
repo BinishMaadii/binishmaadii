@@ -26,6 +26,21 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=binishmaadii)
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode,pytorch,tensorflow"/>
+</p>
+
+![](https://komarev.com/ghpvc/?username=binishmaadii)
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binishmaadii&show_icons=true&theme=default" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishmaadii&layout=compact" height="170">
+</p>
+
+
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)

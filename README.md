@@ -1,12 +1,8 @@
+# Hi there, I'm Binish Batool! 👋
 
 <p align="center">
   <img src="https://github.com/BinishMaadii/binishmaadii/blob/main/Binish_GitHub_Banner.png" alt="banner" width="100%">
 </p>
-
-
-# Hi there, I'm Binish Batool! 👋
-
-![Banner Image] (https://drive.google.com/file/d/13700IZ3lv6TAPLDO6xi8ygtbn2Wn0umi/view?usp=sharing)
 
 ## About Me 🚀
 
@@ -29,13 +25,13 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* ]:
 
 
 <p align="center">

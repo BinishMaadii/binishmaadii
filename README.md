@@ -54,7 +54,7 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 
 ## Featured Project 💻
 
-### [PET_MC_Simulator_GEANT4 (https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)]
+### [PET_MC_Simulator_GEANT4(https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)]
 
 <!--
 ![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/hBragg_peak.pdf)

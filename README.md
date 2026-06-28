@@ -41,6 +41,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 </p>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=binishmaadii">
+</p>
+
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)

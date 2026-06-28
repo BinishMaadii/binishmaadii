@@ -11,17 +11,16 @@ Particle Physicist • Machine Learning • Scientific Computing
 </p>
 
 <p align="center">
-ATLAS Collaboration @ CERN | Bayesian Inference | EFT | C++ | Python | ROOT
+ATLAS Collaboration @ CERN | Bayesian Inference | Effective Field Theory | C++ | Python | ROOT
 </p>
 
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[Multi-modal data handling. A follow-up from the Project 1]**
+- 🔭 Working on: **[Simulation of particle physics process for medical applications]**
+- 🌍 Languages: **[My work can speak below listed languages. I can speak English, Deutsch, Urdu]**
+- ⚡ Mantra: **[You do not age if you keep learning]**
 
 ## My Skills 🧠
 <!--
@@ -35,7 +34,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode,pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode,pytorch"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=binishmaadii)
@@ -69,21 +68,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-<!--
-- **[Personal Website / Blog]**(https://sites.google.com/view/binishbatoolphd/bio)
--->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binish-batool)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/binishbatoolphd/bio)
 
-<!--
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![PORtFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
-- **![LinkedIn]**(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/binish-batool)
--->
 
 
 

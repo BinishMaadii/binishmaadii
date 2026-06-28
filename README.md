@@ -54,11 +54,14 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 
 ## Featured Project 💻
 
-### [Project 1 Title](project_1_link)
+### [[PET_MC_Simulator_GEANT4](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)]
 
+<!--
 ![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/hBragg_peak.pdf)
+-->
+![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/bragg_peak_CORRECTED.png)
 
-**[PET activity prediction]** for proton energy loss is a **[simulated]** using **[C++ and GEANT4]**. This project demonstrates my understanding of how particles interact with matter and how their interactions can be **simulated** for **medical applications**. You can check out the repository [here]([project_1_repository_link](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)).
+**[PET activity prediction]** for proton energy loss is a **[simulated]** using **[C++ and GEANT4]**. This project demonstrates my understanding of how particles interact with matter and how their interactions can be **simulated** for **medical applications**. You can check out the repository [[here](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)].
 
 <!--
 ### [Project 2 Title](project_2_link)

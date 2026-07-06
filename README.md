@@ -43,10 +43,9 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binishmaadii&show_icons=true&theme=default" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishmaadii&layout=compact" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=binishmaadii&show_icons=true&theme=default&cache_bust=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishmaadii&layout=compact&cache_bust=true" height="170">
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=binishmaadii">

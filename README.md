@@ -39,7 +39,7 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 
 ![](https://komarev.com/ghpvc/?username=binishmaadii)
 
-<!--
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -47,7 +47,7 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishmaadii&layout=compact&cache_bust=true" height="170">
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=binishmaadii">
 </p>

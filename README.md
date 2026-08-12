@@ -17,7 +17,7 @@ ATLAS Collaboration @ CERN | Bayesian Inference | Effective Field Theory | C++ |
 
 I'm passionate **about computing the entangled problems in Particle Physics,** with experience in **Research and extensive data analysis**. I love digging into data to unfold its complicated patterns by employing computational tools through innovative methods.
 
-- 🌱 Currently learning: **Multi-modal data handling. A follow-up from the Project 1**
+- 🌱 Currently learning: **Image Reconstruction using SPECT/CT scan for medical application**
 - 🔭 Working on: **Simulation of particle physics process for medical applications**
 - 🌍 Languages: **My work can speak the languages listed below. I can speak English, Deutsch, Urdu**
 - ⚡ Mantra: **You do not age if you keep learning**

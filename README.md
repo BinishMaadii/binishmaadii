@@ -64,7 +64,7 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 
 ![Result](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/profile_likelihood_gif.gif)
 
-**[2D Likelihood Profiling]** for statistical parameter estimation is **[visualized]** using **[Python and SciPy]**. This project demonstrates my skills in global maximum likelihood estimation (MLE), constrained optimization, and dynamic scientific animation. You can check out the repository [here](https://github.com/BinishMaadii/Repo_for_main_Readme). [[here](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/Profile_Likelihood_method.py)].
+**[2D Likelihood Profiling]** for statistical parameter estimation is **[visualized]** using **[Python and SciPy]**. This project demonstrates my skills in global maximum likelihood estimation (MLE), constrained optimization, and dynamic scientific animation. You can check out the repository [[here](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/Profile_Likelihood_method.py)].
 
 
 ### [PET_MC_Simulator_GEANT4](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)

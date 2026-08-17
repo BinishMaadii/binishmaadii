@@ -66,15 +66,18 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 
 **[2D Likelihood Profiling]** for statistical parameter estimation is **[visualized]** using **[Python and SciPy]**. This project demonstrates my skills in global maximum likelihood estimation (MLE), constrained optimization, and dynamic scientific animation. You can check out the repository [[here](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/Profile_Likelihood_method.py)].
 
-
+<!--
 ### [PET_MC_Simulator_GEANT4](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)
-
+-->
 <!--
 ![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/hBragg_peak.pdf)
 -->
+<!--
 ![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/bragg_peak_CORRECTED.png)
-
+-->
+<!--
 **[PET activity prediction]** for proton energy loss is a **[simulated]** using **[C++ and GEANT4]**. This project demonstrates my understanding of how particles interact with matter and how their interactions can be **simulated** for **medical applications**. You can check out the repository [[here](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)].
+-->
 
 <!--
 ### [Project 2 Title](project_2_link)

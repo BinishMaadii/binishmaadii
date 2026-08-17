@@ -60,6 +60,17 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 ![Result](https://github.com/BinishMaadii/binishmaadii/blob/main/SHAPley.png)
 
 
+### [Profile Likelihood method simulation](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/Profile_Likelihood_method.py)
+
+<!--
+![Result](https://github.com/BinishMaadii/Repo_for_main_Readme/blob/main/profile_likelihood_anim.mp4)
+-->
+![Result](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4/blob/main/bragg_peak_CORRECTED.png)
+
+**[PET activity prediction]** for proton energy loss is a **[simulated]** using **[C++ and GEANT4]**. This project demonstrates my understanding of how particles interact with matter and how their interactions can be **simulated** for **medical applications**. You can check out the repository [[here](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)].
+
+
+
 ### [PET_MC_Simulator_GEANT4](https://github.com/BinishMaadii/PET_MC_Simulator_GEANT4)
 
 <!--

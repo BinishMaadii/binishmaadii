@@ -21,6 +21,7 @@ I'm passionate **about computing the entangled problems in Particle Physics,** w
 - 🔭 Learning: **Image Reconstruction using SPECT/CT scan for medical application**
 - 🌍 Languages: **My work can speak the languages listed below. I can speak English, Deutsch, Urdu**
 - ⚡ Mantra: **You do not age if you keep learning**
+- Free time: **When I do not work, I simulate Physics, AI, and ML methods for my YouTube channel: https://www.youtube.com/@binishbatool248/shorts**
 
 ## My Skills 🧠
 <!--
